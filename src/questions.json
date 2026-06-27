@@ -1,0 +1,296 @@
+{
+  "React": [
+    {
+      "id": 1,
+      "question": "Explain the difference between useMemo and useCallback hooks in React. When and why would you use each?",
+      "category": "React hooks",
+      "focus_area": "Performance Optimization",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["useMemo", "useCallback", "memoization", "referential equality", "re-rendering", "compute cost"]
+    },
+    {
+      "id": 2,
+      "question": "What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?",
+      "category": "React Server Components",
+      "focus_area": "Architecture",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["server components", "client components", "zero bundle size", "server-side execution", "hydration", "ssr"]
+    },
+    {
+      "id": 3,
+      "question": "How does React's virtual DOM reconciliation work, and what is the significance of the 'key' prop when rendering lists of elements?",
+      "category": "Virtual DOM",
+      "focus_area": "Core Engine",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["reconciliation", "diffing algorithm", "key prop", "fiber", "render cycle", "element identity"]
+    },
+    {
+      "id": 4,
+      "question": "What is state batching in React 18+ and how does it affect rendering behavior when state is updated inside asynchronous operations like promises or timeouts?",
+      "category": "State Management",
+      "focus_area": "State Batching",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["batching", "automatic batching", "flushSync", "rendering cycles", "async updates"]
+    },
+    {
+      "id": 5,
+      "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+      "category": "React Lifecycle",
+      "focus_area": "useEffect Cleanup",
+      "difficulty_level": "Easy",
+      "ideal_keywords": ["cleanup function", "useEffect", "memory leaks", "event listeners", "subscriptions", "unmount"]
+    }
+  ],
+  "Java": [
+    {
+      "id": 1,
+      "question": "What is the difference between fail-fast and fail-safe iterators in Java? Provide examples of collection classes that use each type.",
+      "category": "Java Collections",
+      "focus_area": "Collections & Iterators",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["fail-fast", "fail-safe", "ConcurrentModificationException", "CopyOnWriteArrayList", "HashMap", "modCount"]
+    },
+    {
+      "id": 2,
+      "question": "Explain the difference between Stack and Heap memory in Java. How is object allocation and lifecycle managed in each?",
+      "category": "Java Memory Management",
+      "focus_area": "JVM Architecture",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["stack memory", "heap memory", "garbage collection", "reference variable", "thread safety", "metadata"]
+    },
+    {
+      "id": 3,
+      "question": "What is the difference between abstract classes and interfaces in Java 8 and beyond, specifically regarding default methods, static methods, and multiple inheritance?",
+      "category": "Java OOP",
+      "focus_area": "OOP Design",
+      "difficulty_level": "Easy",
+      "ideal_keywords": ["abstract class", "interface", "default methods", "static methods", "multiple inheritance", "multiple execution paths"]
+    },
+    {
+      "id": 4,
+      "question": "How does Garbage Collection work in Java? Describe the different memory spaces inside the heap (Eden, Survivor, Tenured) and the role of Minor vs. Major GC.",
+      "category": "JVM Performance",
+      "focus_area": "Garbage Collection",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["garbage collection", "eden space", "survivor space", "tenured", "minor GC", "major GC", "stop-the-world"]
+    },
+    {
+      "id": 5,
+      "question": "Explain the concepts of synchronization and volatile variables in Java multithreading. When would you prefer using 'volatile' over synchronized blocks?",
+      "category": "Java Multithreading",
+      "focus_area": "Concurrency",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["synchronized", "volatile", "thread visibility", "race condition", "mutual exclusion", "memory barrier"]
+    }
+  ],
+  "Web Development": [
+    {
+      "id": 1,
+      "question": "Explain the Event Loop in JavaScript. How do the call stack, Web APIs, task queue (callback queue), and microtask queue interact with each other?",
+      "category": "JavaScript Engine",
+      "focus_area": "Asynchronous JS",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["event loop", "call stack", "task queue", "microtask queue", "promise", "setTimeout", "blocking"]
+    },
+    {
+      "id": 2,
+      "question": "Explain the differences between localStorage, sessionStorage, and cookies in terms of storage capacity, client/server accessibility, and expiration rules.",
+      "category": "Browser Storage",
+      "focus_area": "State Persistence",
+      "difficulty_level": "Easy",
+      "ideal_keywords": ["localStorage", "sessionStorage", "cookies", "expiration", "httpOnly", "capacity", "request headers"]
+    },
+    {
+      "id": 3,
+      "question": "What is CORS (Cross-Origin Resource Sharing)? How do browser preflight requests work, and which HTTP methods trigger them?",
+      "category": "Web Security",
+      "focus_area": "Browser Security",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["CORS", "preflight request", "OPTIONS method", "access-control-allow-origin", "cross-origin", "origin header"]
+    },
+    {
+      "id": 4,
+      "question": "Explain the critical rendering path in a browser and how the 'async' and 'defer' attributes in script tags optimize loading performance.",
+      "category": "Web Performance",
+      "focus_area": "Critical Rendering Path",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["critical rendering path", "async", "defer", "DOM parsing", "render tree", "parser-blocking"]
+    },
+    {
+      "id": 5,
+      "question": "Explain CSS Grid layout versus Flexbox layout. When is it more appropriate to use one over the other in modern UI architecture?",
+      "category": "CSS Architecture",
+      "focus_area": "Responsive Layouts",
+      "difficulty_level": "Easy",
+      "ideal_keywords": ["flexbox", "css grid", "one-dimensional", "two-dimensional", "content-first", "layout-first"]
+    }
+  ],
+  "DBMS": [
+    {
+      "id": 1,
+      "question": "Explain the ACID properties in database transactions and explain how a relational database system guarantees each property.",
+      "category": "Database Transactions",
+      "focus_area": "ACID Properties",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["atomicity", "consistency", "isolation", "durability", "transactions", "rollback", "write-ahead logging"]
+    },
+    {
+      "id": 2,
+      "question": "What is database normalization? Describe first normal form (1NF), second normal form (2NF), and third normal form (3NF) with their respective dependency conditions.",
+      "category": "Database Design",
+      "focus_area": "Normalization",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["normalization", "1NF", "2NF", "3NF", "primary key", "partial dependency", "transitive dependency", "redundancy"]
+    },
+    {
+      "id": 3,
+      "question": "Explain the difference between a clustered and a non-clustered index. How do they affect the physical storage of data and query performance?",
+      "category": "Query Performance",
+      "focus_area": "Indexing",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["clustered index", "non-clustered index", "physical order", "pointer", "lookup speed", "write overhead"]
+    },
+    {
+      "id": 4,
+      "question": "Compare relational SQL databases with NoSQL databases. Under what architectural scenarios would you choose MongoDB or DynamoDB over PostgreSQL?",
+      "category": "Database Architecture",
+      "focus_area": "SQL vs NoSQL",
+      "difficulty_level": "Easy",
+      "ideal_keywords": ["SQL", "NoSQL", "schemaless", "scalability", "relational integrity", "postgres", "mongodb"]
+    },
+    {
+      "id": 5,
+      "question": "What is the difference between database sharding and horizontal partitioning? When and why would a database architect implement them?",
+      "category": "Database Scaling",
+      "focus_area": "Distributed Databases",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["sharding", "horizontal partitioning", "distributed systems", "shard key", "load balancing", "database replication"]
+    }
+  ],
+  "Operating Systems": [
+    {
+      "id": 1,
+      "question": "What is the difference between a process and a thread? How do they share system resources, and what are the concurrency implications?",
+      "category": "OS Concurrency",
+      "focus_area": "Processes & Threads",
+      "difficulty_level": "Easy",
+      "ideal_keywords": ["process", "thread", "memory space", "context switching", "shared heap", "thread stack", "inter-process communication"]
+    },
+    {
+      "id": 2,
+      "question": "Explain deadlocks in operating systems. What are the four Coffman conditions required for a deadlock to occur?",
+      "category": "OS Core",
+      "focus_area": "Deadlocks",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["deadlock", "mutual exclusion", "hold and wait", "no preemption", "circular wait", "resource allocation"]
+    },
+    {
+      "id": 3,
+      "question": "What is virtual memory? Explain how paging, page tables, and page faults are handled by the Operating System and Hardware (MMU).",
+      "category": "OS Memory",
+      "focus_area": "Virtual Memory",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["virtual memory", "paging", "page tables", "page fault", "MMU", "swap space", "translation lookaside buffer"]
+    },
+    {
+      "id": 4,
+      "question": "Explain context switching. Why is context switching between processes generally more computationally expensive than context switching between threads?",
+      "category": "OS Scheduling",
+      "focus_area": "Context Switching",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["context switching", "process context", "thread context", "registers", "cache flush", "translation lookaside buffer"]
+    },
+    {
+      "id": 5,
+      "question": "Describe CPU scheduling algorithms. Explain the key trade-offs between Round Robin, Shortest Job First (SJF), and Priority Scheduling.",
+      "category": "OS Scheduling",
+      "focus_area": "Scheduling Algorithms",
+      "difficulty_level": "Easy",
+      "ideal_keywords": ["scheduling", "round robin", "SJF", "starvation", "time quantum", "throughput", "response time"]
+    }
+  ],
+  "AI/ML": [
+    {
+      "id": 1,
+      "question": "What is the difference between supervised, unsupervised, and reinforcement learning? Provide examples of common use cases for each.",
+      "category": "Machine Learning",
+      "focus_area": "ML Paradigms",
+      "difficulty_level": "Easy",
+      "ideal_keywords": ["supervised learning", "unsupervised learning", "reinforcement learning", "labels", "clustering", "agent reward"]
+    },
+    {
+      "id": 2,
+      "question": "Explain the vanishing gradient problem in deep neural networks. Why does it occur, and what techniques are used to mitigate it?",
+      "category": "Deep Learning",
+      "focus_area": "Optimization Problems",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["vanishing gradient", "backpropagation", "activation function", "ReLU", "residual connections", "weight initialization"]
+    },
+    {
+      "id": 3,
+      "question": "What is overfitting in machine learning? Explain how regularization techniques like L1 (Lasso) and L2 (Ridge) prevent it mathematically.",
+      "category": "ML Theory",
+      "focus_area": "Regularization",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["overfitting", "regularization", "L1 regularization", "L2 regularization", "penalty term", "loss function", "bias-variance tradeoff"]
+    },
+    {
+      "id": 4,
+      "question": "Explain the architecture of a Transformer model, specifically how the Self-Attention mechanism computes relationships between input tokens.",
+      "category": "NLP & Transformers",
+      "focus_area": "Transformers",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["transformer", "self-attention", "query key value", "dot product attention", "tokens", "multi-head attention"]
+    },
+    {
+      "id": 5,
+      "question": "Explain the differences between precision, recall, and F1-score. In what real-world scenarios is recall more critical than precision?",
+      "category": "ML Evaluation",
+      "focus_area": "Metrics",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["precision", "recall", "F1-score", "true positive", "false negative", "confusion matrix", "medical diagnosis"]
+    }
+  ],
+  "General Technical": [
+    {
+      "id": 1,
+      "question": "Explain the difference between Monolithic and Microservices architectures. What are the key trade-offs in terms of scalability, deployment, and data consistency?",
+      "category": "System Design",
+      "focus_area": "System Architecture",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["monolith", "microservices", "horizontal scaling", "latency", "distributed transactions", "service mesh", "event-driven"]
+    },
+    {
+      "id": 2,
+      "question": "Explain Git branching strategies like GitFlow, GitHub Flow, and Trunk-Based Development. In what scenarios would you choose Trunk-Based Development?",
+      "category": "DevOps",
+      "focus_area": "Version Control Flow",
+      "difficulty_level": "Easy",
+      "ideal_keywords": ["gitflow", "github flow", "trunk-based development", "CI/CD", "feature flags", "merge conflicts"]
+    },
+    {
+      "id": 3,
+      "question": "What is REST and how does it compare to GraphQL? What are the key advantages of GraphQL regarding over-fetching and under-fetching of data?",
+      "category": "Web APIs",
+      "focus_area": "API Design",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["REST", "GraphQL", "over-fetching", "under-fetching", "schema", "resolver", "endpoints"]
+    },
+    {
+      "id": 4,
+      "question": "Explain Docker containerization. How does a Docker container differ from a Virtual Machine in terms of kernel usage and overhead?",
+      "category": "DevOps",
+      "focus_area": "Containerization",
+      "difficulty_level": "Medium",
+      "ideal_keywords": ["docker", "container", "virtual machine", "shared kernel", "hypervisor", "overhead", "namespace", "cgroups"]
+    },
+    {
+      "id": 5,
+      "question": "What is the difference between symmetric and asymmetric encryption? Explain how SSL/TLS uses both to secure communication over the web.",
+      "category": "Cybersecurity",
+      "focus_area": "Cryptography",
+      "difficulty_level": "Hard",
+      "ideal_keywords": ["symmetric encryption", "asymmetric encryption", "SSL/TLS handshake", "public key", "private key", "session key"]
+    }
+  ]
+}

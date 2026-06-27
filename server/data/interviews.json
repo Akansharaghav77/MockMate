@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "1779725398019",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-25T16:09:58.019Z",
+    "questions": [],
+    "answers": [],
+    "evaluation": null
+  },
+  {
+    "id": "1779725713989",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-25T16:15:13.989Z",
+    "questions": [],
+    "answers": [],
+    "evaluation": null
+  },
+  {
+    "id": "1779726341522",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Intermediate",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-25T16:25:41.522Z",
+    "questions": [],
+    "answers": [],
+    "evaluation": null
+  },
+  {
+    "id": "1779737832801",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-25T19:37:12.801Z",
+    "questions": [],
+    "answers": [],
+    "evaluation": null
+  },
+  {
+    "id": "1779739105780",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Intermediate",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-25T19:58:25.780Z",
+    "questions": [],
+    "answers": [],
+    "evaluation": null
+  },
+  {
+    "id": "1779743437641",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Intermediate",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-25T21:10:37.641Z",
+    "questions": [],
+    "answers": [],
+    "evaluation": null
+  },
+  {
+    "id": "1779773189468",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-26T05:26:29.468Z",
+    "questions": [],
+    "answers": [],
+    "evaluation": null
+  },
+  {
+    "id": "1779773730634",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Intermediate",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-26T05:35:30.634Z",
+    "questions": [],
+    "answers": [],
+    "evaluation": null
+  },
+  {
+    "id": "1779774103225",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Intermediate",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-26T05:41:43.225Z",
+    "questions": [],
+    "answers": [],
+    "evaluation": null
+  },
+  {
+    "id": "1779774334048",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Intermediate",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-26T05:45:34.048Z",
+    "questions": [],
+    "answers": [],
+    "evaluation": null
+  },
+  {
+    "id": "1779775802623",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Intermediate",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "completed",
+    "createdAt": "2026-05-26T06:10:02.623Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?",
+        "category": "React Server Components",
+        "focus_area": "Architecture",
+        "difficulty_level": "Hard",
+        "adaptation": {
+          "evaluation": "N/A",
+          "reasoning": "Loaded from domain-specific question pool for React."
+        },
+        "ideal_keywords": [
+          "server components",
+          "client components",
+          "zero bundle size",
+          "server-side execution",
+          "hydration",
+          "ssr"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "How does React's virtual DOM reconciliation work, and what is the significance of the 'key' prop when rendering lists of elements?",
+        "category": "Virtual DOM",
+        "focus_area": "Core Engine",
+        "difficulty_level": "Medium",
+        "adaptation": {
+          "evaluation": "N/A",
+          "reasoning": "Loaded from domain-specific question pool for React."
+        },
+        "ideal_keywords": [
+          "reconciliation",
+          "diffing algorithm",
+          "key prop",
+          "fiber",
+          "render cycle",
+          "element identity"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+        "category": "React Lifecycle",
+        "focus_area": "useEffect Cleanup",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "N/A",
+          "reasoning": "Loaded from domain-specific question pool for React."
+        },
+        "ideal_keywords": [
+          "cleanup function",
+          "useEffect",
+          "memory leaks",
+          "event listeners",
+          "subscriptions",
+          "unmount"
+        ]
+      },
+      {
+        "id": 4,
+        "question": "What is state batching in React 18+ and how does it affect rendering behavior when state is updated inside asynchronous operations like promises or timeouts?",
+        "category": "State Management",
+        "focus_area": "State Batching",
+        "difficulty_level": "Hard",
+        "adaptation": {
+          "evaluation": "N/A",
+          "reasoning": "Loaded from domain-specific question pool for React."
+        },
+        "ideal_keywords": [
+          "batching",
+          "automatic batching",
+          "flushSync",
+          "rendering cycles",
+          "async updates"
+        ]
+      }
+    ],
+    "answers": [
+      "I don't know",
+      "don't know",
+      "something easy"
+    ],
+    "evaluation": {
+      "overallScore": 38,
+      "categoryScores": {
+        "technical": 38,
+        "communication": 43,
+        "completeness": 38
+      },
+      "summary": "MockMate locally evaluated your responses for the Frontend Developer profile. You answered 4 questions with technical competence.",
+      "strengths": [
+        "Demonstrated ability to answer questions in the Frontend Developer domain.",
+        "Good structured articulation.",
+        "Familiar with the selected technical stack."
+      ],
+      "improvements": [
+        "Explain core mechanics more deeply rather than just definition.",
+        "Practice incorporating more technical keywords like: React, JavaScript, HTML/CSS",
+        "Explore edge cases and design trade-offs in your architecture."
+      ],
+      "detailedFeedback": [
+        {
+          "question_id": 1,
+          "question": "What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?",
+          "score": 5,
+          "feedback": "Good start, but you could provide more technical details. Try to cover topics like: server components, client components, zero bundle size, server-side execution, hydration, ssr",
+          "model_answer": "For What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?, a model answer should explain the core mechanism, analyze trade-offs, and cover key terms like server components, client components, zero bundle size, server-side execution, hydration, ssr."
+        },
+        {
+          "question_id": 2,
+          "question": "How does React's virtual DOM reconciliation work, and what is the significance of the 'key' prop when rendering lists of elements?",
+          "score": 5,
+          "feedback": "Good start, but you could provide more technical details. Try to cover topics like: reconciliation, diffing algorithm, key prop, fiber, render cycle, element identity",
+          "model_answer": "For How does React's virtual DOM reconciliation work, and what is the significance of the 'key' prop when rendering lists of elements?, a model answer should explain the core mechanism, analyze trade-offs, and cover key terms like reconciliation, diffing algorithm, key prop, fiber, render cycle, element identity."
+        },
+        {
+          "question_id": 3,
+          "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+          "score": 5,
+          "feedback": "Good start, but you could provide more technical details. Try to cover topics like: cleanup function, useEffect, memory leaks, event listeners, subscriptions, unmount",
+          "model_answer": "For Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?, a model answer should explain the core mechanism, analyze trade-offs, and cover key terms like cleanup function, useEffect, memory leaks, event listeners, subscriptions, unmount."
+        },
+        {
+          "question_id": 4,
+          "question": "What is state batching in React 18+ and how does it affect rendering behavior when state is updated inside asynchronous operations like promises or timeouts?",
+          "score": 0,
+          "feedback": "No response or incorrect response recorded. You should study this concept in detail.",
+          "model_answer": "For What is state batching in React 18+ and how does it affect rendering behavior when state is updated inside asynchronous operations like promises or timeouts?, a model answer should explain the core mechanism, analyze trade-offs, and cover key terms like batching, automatic batching, flushSync, rendering cycles, async updates."
+        }
+      ]
+    },
+    "userEmail": "google@mockmate.com"
+  },
+  {
+    "id": "1779776250560",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Intermediate",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "completed",
+    "createdAt": "2026-05-26T06:17:30.560Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+        "category": "React Lifecycle",
+        "focus_area": "useEffect Cleanup",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "Starting interview with foundational concepts."
+        },
+        "ideal_keywords": [
+          "cleanup function",
+          "useEffect",
+          "memory leaks",
+          "event listeners",
+          "subscriptions",
+          "unmount"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?",
+        "category": "React Server Components",
+        "focus_area": "Architecture",
+        "difficulty_level": "Hard",
+        "adaptation": {
+          "evaluation": "Needs Development",
+          "reasoning": "Basic question needs more detail. Remaining at basic level to build confidence."
+        },
+        "ideal_keywords": [
+          "server components",
+          "client components",
+          "zero bundle size",
+          "server-side execution",
+          "hydration",
+          "ssr"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "How does React's virtual DOM reconciliation work, and what is the significance of the 'key' prop when rendering lists of elements?",
+        "category": "Virtual DOM",
+        "focus_area": "Core Engine",
+        "difficulty_level": "Medium",
+        "adaptation": {
+          "evaluation": "Needs Development",
+          "reasoning": "Advanced question was difficult. Stepping down to intermediate level."
+        },
+        "ideal_keywords": [
+          "reconciliation",
+          "diffing algorithm",
+          "key prop",
+          "fiber",
+          "render cycle",
+          "element identity"
+        ]
+      }
+    ],
+    "answers": [
+      "no I don't know"
+    ],
+    "evaluation": {
+      "overallScore": 25,
+      "categoryScores": {
+        "technical": 25,
+        "communication": 30,
+        "completeness": 25
+      },
+      "summary": "MockMate strictly evaluated your responses for the Frontend Developer profile. You answered 2 questions.",
+      "strengths": [
+        "Demonstrated familiarity with concepts in the Frontend Developer domain.",
+        "Completed the active technical session questions."
+      ],
+      "weakAreas": [
+        "Explanations lacked critical technical details and did not cover all keywords.",
+        "Failed to explain design patterns or core mechanics for: React, JavaScript, HTML/CSS"
+      ],
+      "technicalAccuracy": "Technical precision calculated at 25%. Some responses lacked complete accuracy.",
+      "communicationClarity": "Communication is basic. Needs clearer structure and professional articulation of trade-offs.",
+      "finalVerdict": "Beginner",
+      "improvements": [
+        "Study foundational inner mechanics for React, JavaScript, HTML/CSS",
+        "Incorporate precise technical keywords in answers rather than generic definitions.",
+        "Exhaustively detail trade-offs and edge cases for architectural questions."
+      ],
+      "detailedFeedback": [
+        {
+          "question_id": 1,
+          "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+          "score": 5,
+          "feedback": "Good start, but you could provide more technical details. Try to cover topics like: cleanup function, useEffect, memory leaks, event listeners, subscriptions, unmount",
+          "model_answer": "For Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?, a model answer should explain the core mechanism, analyze trade-offs, and cover key terms like cleanup function, useEffect, memory leaks, event listeners, subscriptions, unmount."
+        },
+        {
+          "question_id": 2,
+          "question": "What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?",
+          "score": 0,
+          "feedback": "No response or incorrect response recorded. You should study this concept in detail.",
+          "model_answer": "For What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?, a model answer should explain the core mechanism, analyze trade-offs, and cover key terms like server components, client components, zero bundle size, server-side execution, hydration, ssr."
+        }
+      ]
+    },
+    "userEmail": "google@mockmate.com"
+  },
+  {
+    "id": "1779776318067",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Intermediate",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "active",
+    "createdAt": "2026-05-26T06:18:38.067Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+        "category": "React Lifecycle",
+        "focus_area": "useEffect Cleanup",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "Starting interview with foundational concepts."
+        },
+        "ideal_keywords": [
+          "cleanup function",
+          "useEffect",
+          "memory leaks",
+          "event listeners",
+          "subscriptions",
+          "unmount"
+        ]
+      }
+    ],
+    "answers": [],
+    "evaluation": null,
+    "userEmail": "google@mockmate.com"
+  },
+  {
+    "id": "1779776379128",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Intermediate",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "completed",
+    "createdAt": "2026-05-26T06:19:39.128Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+        "category": "React Lifecycle",
+        "focus_area": "useEffect Cleanup",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "Starting interview with foundational concepts."
+        },
+        "ideal_keywords": [
+          "cleanup function",
+          "useEffect",
+          "memory leaks",
+          "event listeners",
+          "subscriptions",
+          "unmount"
+        ]
+      }
+    ],
+    "answers": [],
+    "evaluation": {
+      "overallScore": 0,
+      "categoryScores": {
+        "technical": 0,
+        "communication": 5,
+        "completeness": 0
+      },
+      "summary": "MockMate strictly evaluated your responses for the Frontend Developer profile. You answered 1 questions.",
+      "strengths": [
+        "Demonstrated familiarity with concepts in the Frontend Developer domain.",
+        "Completed the active technical session questions."
+      ],
+      "weakAreas": [
+        "Explanations lacked critical technical details and did not cover all keywords.",
+        "Failed to explain design patterns or core mechanics for: React, JavaScript, HTML/CSS"
+      ],
+      "technicalAccuracy": "Technical precision calculated at 0%. Some responses lacked complete accuracy.",
+      "communicationClarity": "Communication is basic. Needs clearer structure and professional articulation of trade-offs.",
+      "finalVerdict": "Beginner",
+      "improvements": [
+        "Study foundational inner mechanics for React, JavaScript, HTML/CSS",
+        "Incorporate precise technical keywords in answers rather than generic definitions.",
+        "Exhaustively detail trade-offs and edge cases for architectural questions."
+      ],
+      "detailedFeedback": [
+        {
+          "question_id": 1,
+          "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+          "score": 0,
+          "feedback": "No response or incorrect response recorded. You should study this concept in detail.",
+          "model_answer": "For Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?, a model answer should explain the core mechanism, analyze trade-offs, and cover key terms like cleanup function, useEffect, memory leaks, event listeners, subscriptions, unmount."
+        }
+      ]
+    },
+    "userEmail": "google@mockmate.com"
+  },
+  {
+    "id": "1779776682371",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "HTML/CSS",
+    "status": "completed",
+    "createdAt": "2026-05-26T06:24:42.371Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the difference between supervised, unsupervised, and reinforcement learning? Provide examples of common use cases for each.",
+        "category": "Machine Learning",
+        "focus_area": "ML Paradigms",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "Starting interview with foundational concepts."
+        },
+        "ideal_keywords": [
+          "supervised learning",
+          "unsupervised learning",
+          "reinforcement learning",
+          "labels",
+          "clustering",
+          "agent reward"
+        ]
+      }
+    ],
+    "answers": [],
+    "evaluation": {
+      "overallScore": 0,
+      "categoryScores": {
+        "technical": 0,
+        "communication": 5,
+        "completeness": 0
+      },
+      "summary": "MockMate strictly evaluated your responses for the Frontend Developer profile. You answered 1 questions.",
+      "strengths": [
+        "Demonstrated familiarity with concepts in the Frontend Developer domain.",
+        "Completed the active technical session questions."
+      ],
+      "weakAreas": [
+        "Explanations lacked critical technical details and did not cover all keywords.",
+        "Failed to explain design patterns or core mechanics for: HTML/CSS"
+      ],
+      "technicalAccuracy": "Technical precision calculated at 0%. Some responses lacked complete accuracy.",
+      "communicationClarity": "Communication is basic. Needs clearer structure and professional articulation of trade-offs.",
+      "finalVerdict": "Beginner",
+      "improvements": [
+        "Study foundational inner mechanics for HTML/CSS",
+        "Incorporate precise technical keywords in answers rather than generic definitions.",
+        "Exhaustively detail trade-offs and edge cases for architectural questions."
+      ],
+      "detailedFeedback": [
+        {
+          "question_id": 1,
+          "question": "What is the difference between supervised, unsupervised, and reinforcement learning? Provide examples of common use cases for each.",
+          "score": 0,
+          "feedback": "No response or incorrect response recorded. You should study this concept in detail.",
+          "model_answer": "For What is the difference between supervised, unsupervised, and reinforcement learning? Provide examples of common use cases for each., a model answer should explain the core mechanism, analyze trade-offs, and cover key terms like supervised learning, unsupervised learning, reinforcement learning, labels, clustering, agent reward."
+        }
+      ]
+    },
+    "userEmail": "google@mockmate.com"
+  },
+  {
+    "id": "1779776804162",
+    "jobRole": "Backend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "completed",
+    "createdAt": "2026-05-26T06:26:44.162Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+        "category": "React Lifecycle",
+        "focus_area": "useEffect Cleanup",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "Starting interview with foundational concepts."
+        },
+        "ideal_keywords": [
+          "cleanup function",
+          "useEffect",
+          "memory leaks",
+          "event listeners",
+          "subscriptions",
+          "unmount"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Explain the difference between useMemo and useCallback hooks in React. When and why would you use each?",
+        "category": "React hooks",
+        "focus_area": "Performance Optimization",
+        "difficulty_level": "Medium",
+        "adaptation": {
+          "evaluation": "Needs Development",
+          "reasoning": "Basic question needs more detail. Remaining at basic level to build confidence."
+        },
+        "ideal_keywords": [
+          "useMemo",
+          "useCallback",
+          "memoization",
+          "referential equality",
+          "re-rendering",
+          "compute cost"
+        ]
+      }
+    ],
+    "answers": [
+      "i dont know"
+    ],
+    "evaluation": {
+      "overallScore": 25,
+      "categoryScores": {
+        "technical": 25,
+        "communication": 30,
+        "completeness": 25
+      },
+      "summary": "MockMate strictly evaluated your responses for the Backend Developer profile. You answered 2 questions.",
+      "strengths": [
+        "Demonstrated familiarity with concepts in the Backend Developer domain.",
+        "Completed the active technical session questions."
+      ],
+      "weakAreas": [
+        "Explanations lacked critical technical details and did not cover all keywords.",
+        "Failed to explain design patterns or core mechanics for: React, JavaScript, HTML/CSS"
+      ],
+      "technicalAccuracy": "Technical precision calculated at 25%. Some responses lacked complete accuracy.",
+      "communicationClarity": "Communication is basic. Needs clearer structure and professional articulation of trade-offs.",
+      "finalVerdict": "Beginner",
+      "improvements": [
+        "Study foundational inner mechanics for React, JavaScript, HTML/CSS",
+        "Incorporate precise technical keywords in answers rather than generic definitions.",
+        "Exhaustively detail trade-offs and edge cases for architectural questions."
+      ],
+      "detailedFeedback": [
+        {
+          "question_id": 1,
+          "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+          "score": 5,
+          "feedback": "Good start, but you could provide more technical details. Try to cover topics like: cleanup function, useEffect, memory leaks, event listeners, subscriptions, unmount",
+          "model_answer": "For Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?, a model answer should explain the core mechanism, analyze trade-offs, and cover key terms like cleanup function, useEffect, memory leaks, event listeners, subscriptions, unmount."
+        },
+        {
+          "question_id": 2,
+          "question": "Explain the difference between useMemo and useCallback hooks in React. When and why would you use each?",
+          "score": 0,
+          "feedback": "No response or incorrect response recorded. You should study this concept in detail.",
+          "model_answer": "For Explain the difference between useMemo and useCallback hooks in React. When and why would you use each?, a model answer should explain the core mechanism, analyze trade-offs, and cover key terms like useMemo, useCallback, memoization, referential equality, re-rendering, compute cost."
+        }
+      ]
+    },
+    "userEmail": "google@mockmate.com"
+  },
+  {
+    "id": "1779777441767",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "JavaScript",
+    "status": "completed",
+    "createdAt": "2026-05-26T06:37:21.767Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Explain CSS Grid layout versus Flexbox layout. When is it more appropriate to use one over the other in modern UI architecture?",
+        "category": "CSS Architecture",
+        "focus_area": "Responsive Layouts",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "First few questions are kept at basic/foundational level to evaluate core concepts."
+        },
+        "ideal_keywords": [
+          "flexbox",
+          "css grid",
+          "one-dimensional",
+          "two-dimensional",
+          "content-first",
+          "layout-first"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Explain the differences between localStorage, sessionStorage, and cookies in terms of storage capacity, client/server accessibility, and expiration rules.",
+        "category": "Browser Storage",
+        "focus_area": "State Persistence",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "First few questions are kept at basic/foundational level to evaluate core concepts."
+        },
+        "ideal_keywords": [
+          "localStorage",
+          "sessionStorage",
+          "cookies",
+          "expiration",
+          "httpOnly",
+          "capacity",
+          "request headers"
+        ]
+      }
+    ],
+    "answers": [
+      "dont know"
+    ],
+    "evaluation": {
+      "overallScore": 25,
+      "categoryScores": {
+        "technical": 25,
+        "communication": 30,
+        "completeness": 25
+      },
+      "summary": "MockMate strictly evaluated your responses for the Frontend Developer profile. You answered 2 questions.",
+      "strengths": [
+        "Demonstrated familiarity with concepts in the Frontend Developer domain.",
+        "Completed the active technical session questions."
+      ],
+      "weakAreas": [
+        "Explanations lacked critical technical details and did not cover all keywords.",
+        "Failed to explain design patterns or core mechanics for: JavaScript"
+      ],
+      "technicalAccuracy": "Technical precision calculated at 25%. Some responses lacked complete accuracy.",
+      "communicationClarity": "Communication is basic. Needs clearer structure and professional articulation of trade-offs.",
+      "domainUnderstanding": "Domain comprehension assessed at 25%. Demonstrates foundational knowledge of Frontend Developer concepts but lacks the technical depth expected at Beginner level.",
+      "finalVerdict": "Beginner",
+      "improvements": [
+        "Study foundational inner mechanics for JavaScript",
+        "Incorporate precise technical keywords in answers rather than generic definitions.",
+        "Exhaustively detail trade-offs and edge cases for architectural questions."
+      ],
+      "detailedFeedback": [
+        {
+          "question_id": 1,
+          "question": "Explain CSS Grid layout versus Flexbox layout. When is it more appropriate to use one over the other in modern UI architecture?",
+          "score": 5,
+          "feedback": "### Technical Assessment Notes\n\n**Overall Strength:** Moderate understanding. The candidate has the right intuition but misses critical depth and core specifications.\n- **Identified Gaps:** Failed to mention or detail key concepts: `flexbox`, `css grid`, `one-dimensional`, `two-dimensional`, `content-first`, `layout-first`.\n- **Actionable Advice:** Restructure the response to explain *why* and *how* the mechanism operates, incorporating precise technical terminology.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **CSS Architecture** (Focus Area: *Responsive Layouts*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `flexbox`, `css grid`, `one-dimensional`, `two-dimensional`, `content-first`, `layout-first`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        },
+        {
+          "question_id": 2,
+          "question": "Explain the differences between localStorage, sessionStorage, and cookies in terms of storage capacity, client/server accessibility, and expiration rules.",
+          "score": 0,
+          "feedback": "### Critical Gaps: No Response Recorded\nThe candidate did not provide any substantive answer to this question. \nTo prepare for this **Browser Storage** topic:\n- Study the foundational mechanics of **State Persistence**.\n- Learn to articulate definitions and use cases for: `localStorage`, `sessionStorage`, `cookies`, `expiration`, `httpOnly`, `capacity`, `request headers`.\n- Practice drafting brief code structures or diagrams to build confidence.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **Browser Storage** (Focus Area: *State Persistence*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `localStorage`, `sessionStorage`, `cookies`, `expiration`, `httpOnly`, `capacity`, `request headers`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        }
+      ]
+    },
+    "userEmail": "google@mockmate.com"
+  },
+  {
+    "id": "1779799479736",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "completed",
+    "createdAt": "2026-05-26T12:44:39.736Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+        "category": "React Lifecycle",
+        "focus_area": "useEffect Cleanup",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "First few questions are kept at basic/foundational level to evaluate core concepts."
+        },
+        "ideal_keywords": [
+          "cleanup function",
+          "useEffect",
+          "memory leaks",
+          "event listeners",
+          "subscriptions",
+          "unmount"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Explain the difference between useMemo and useCallback hooks in React. When and why would you use each?",
+        "category": "React hooks",
+        "focus_area": "Performance Optimization",
+        "difficulty_level": "Medium",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "First few questions are kept at basic/foundational level to evaluate core concepts."
+        },
+        "ideal_keywords": [
+          "useMemo",
+          "useCallback",
+          "memoization",
+          "referential equality",
+          "re-rendering",
+          "compute cost"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?",
+        "category": "React Server Components",
+        "focus_area": "Architecture",
+        "difficulty_level": "Hard",
+        "adaptation": {
+          "evaluation": "Needs Development",
+          "reasoning": "Intermediate question was challenging. Reverting to basic level for foundational review."
+        },
+        "ideal_keywords": [
+          "server components",
+          "client components",
+          "zero bundle size",
+          "server-side execution",
+          "hydration",
+          "ssr"
+        ]
+      }
+    ],
+    "answers": [
+      "I don't know",
+      "ask easy question"
+    ],
+    "evaluation": {
+      "overallScore": 33,
+      "categoryScores": {
+        "technical": 33,
+        "communication": 38,
+        "completeness": 33
+      },
+      "summary": "MockMate strictly evaluated your responses for the Frontend Developer profile. You answered 3 questions.",
+      "strengths": [
+        "Demonstrated familiarity with concepts in the Frontend Developer domain.",
+        "Completed the active technical session questions."
+      ],
+      "weakAreas": [
+        "Explanations lacked critical technical details and did not cover all keywords.",
+        "Failed to explain design patterns or core mechanics for: React, JavaScript, HTML/CSS"
+      ],
+      "technicalAccuracy": "Technical precision calculated at 33%. Some responses lacked complete accuracy.",
+      "communicationClarity": "Communication is basic. Needs clearer structure and professional articulation of trade-offs.",
+      "domainUnderstanding": "Domain comprehension assessed at 33%. Demonstrates foundational knowledge of Frontend Developer concepts but lacks the technical depth expected at Beginner level.",
+      "finalVerdict": "Beginner",
+      "improvements": [
+        "Study foundational inner mechanics for React, JavaScript, HTML/CSS",
+        "Incorporate precise technical keywords in answers rather than generic definitions.",
+        "Exhaustively detail trade-offs and edge cases for architectural questions."
+      ],
+      "detailedFeedback": [
+        {
+          "question_id": 1,
+          "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+          "score": 5,
+          "feedback": "### Technical Assessment Notes\n\n**Overall Strength:** Moderate understanding. The candidate has the right intuition but misses critical depth and core specifications.\n- **Identified Gaps:** Failed to mention or detail key concepts: `cleanup function`, `useEffect`, `memory leaks`, `event listeners`, `subscriptions`, `unmount`.\n- **Actionable Advice:** Restructure the response to explain *why* and *how* the mechanism operates, incorporating precise technical terminology.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **React Lifecycle** (Focus Area: *useEffect Cleanup*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `cleanup function`, `useEffect`, `memory leaks`, `event listeners`, `subscriptions`, `unmount`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        },
+        {
+          "question_id": 2,
+          "question": "Explain the difference between useMemo and useCallback hooks in React. When and why would you use each?",
+          "score": 5,
+          "feedback": "### Technical Assessment Notes\n\n**Overall Strength:** Moderate understanding. The candidate has the right intuition but misses critical depth and core specifications.\n- **Identified Gaps:** Failed to mention or detail key concepts: `useMemo`, `useCallback`, `memoization`, `referential equality`, `re-rendering`, `compute cost`.\n- **Actionable Advice:** Restructure the response to explain *why* and *how* the mechanism operates, incorporating precise technical terminology.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **React hooks** (Focus Area: *Performance Optimization*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `useMemo`, `useCallback`, `memoization`, `referential equality`, `re-rendering`, `compute cost`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        },
+        {
+          "question_id": 3,
+          "question": "What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?",
+          "score": 0,
+          "feedback": "### Critical Gaps: No Response Recorded\nThe candidate did not provide any substantive answer to this question. \nTo prepare for this **React Server Components** topic:\n- Study the foundational mechanics of **Architecture**.\n- Learn to articulate definitions and use cases for: `server components`, `client components`, `zero bundle size`, `server-side execution`, `hydration`, `ssr`.\n- Practice drafting brief code structures or diagrams to build confidence.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **React Server Components** (Focus Area: *Architecture*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `server components`, `client components`, `zero bundle size`, `server-side execution`, `hydration`, `ssr`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        }
+      ]
+    },
+    "userEmail": "google@mockmate.com"
+  },
+  {
+    "id": "1779799812700",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "completed",
+    "createdAt": "2026-05-26T12:50:12.700Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+        "category": "React Lifecycle",
+        "focus_area": "useEffect Cleanup",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "First few questions are kept at basic/foundational level to evaluate core concepts."
+        },
+        "ideal_keywords": [
+          "cleanup function",
+          "useEffect",
+          "memory leaks",
+          "event listeners",
+          "subscriptions",
+          "unmount"
+        ]
+      }
+    ],
+    "answers": [],
+    "evaluation": {
+      "overallScore": 0,
+      "categoryScores": {
+        "technical": 0,
+        "communication": 5,
+        "completeness": 0
+      },
+      "summary": "MockMate strictly evaluated your responses for the Frontend Developer profile. You answered 1 questions.",
+      "strengths": [
+        "Demonstrated familiarity with concepts in the Frontend Developer domain.",
+        "Completed the active technical session questions."
+      ],
+      "weakAreas": [
+        "Explanations lacked critical technical details and did not cover all keywords.",
+        "Failed to explain design patterns or core mechanics for: React, JavaScript, HTML/CSS"
+      ],
+      "technicalAccuracy": "Technical precision calculated at 0%. Some responses lacked complete accuracy.",
+      "communicationClarity": "Communication is basic. Needs clearer structure and professional articulation of trade-offs.",
+      "domainUnderstanding": "Domain comprehension assessed at 0%. Demonstrates foundational knowledge of Frontend Developer concepts but lacks the technical depth expected at Beginner level.",
+      "finalVerdict": "Beginner",
+      "improvements": [
+        "Study foundational inner mechanics for React, JavaScript, HTML/CSS",
+        "Incorporate precise technical keywords in answers rather than generic definitions.",
+        "Exhaustively detail trade-offs and edge cases for architectural questions."
+      ],
+      "detailedFeedback": [
+        {
+          "question_id": 1,
+          "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+          "score": 0,
+          "feedback": "### Critical Gaps: No Response Recorded\nThe candidate did not provide any substantive answer to this question. \nTo prepare for this **React Lifecycle** topic:\n- Study the foundational mechanics of **useEffect Cleanup**.\n- Learn to articulate definitions and use cases for: `cleanup function`, `useEffect`, `memory leaks`, `event listeners`, `subscriptions`, `unmount`.\n- Practice drafting brief code structures or diagrams to build confidence.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **React Lifecycle** (Focus Area: *useEffect Cleanup*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `cleanup function`, `useEffect`, `memory leaks`, `event listeners`, `subscriptions`, `unmount`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        }
+      ]
+    },
+    "userEmail": "google@mockmate.com"
+  },
+  {
+    "id": "1780066561207",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "completed",
+    "createdAt": "2026-05-29T14:56:01.207Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+        "category": "React Lifecycle",
+        "focus_area": "useEffect Cleanup",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "First few questions are kept at basic/foundational level to evaluate core concepts."
+        },
+        "ideal_keywords": [
+          "cleanup function",
+          "useEffect",
+          "memory leaks",
+          "event listeners",
+          "subscriptions",
+          "unmount"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "How does React's virtual DOM reconciliation work, and what is the significance of the 'key' prop when rendering lists of elements?",
+        "category": "Virtual DOM",
+        "focus_area": "Core Engine",
+        "difficulty_level": "Medium",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "First few questions are kept at basic/foundational level to evaluate core concepts."
+        },
+        "ideal_keywords": [
+          "reconciliation",
+          "diffing algorithm",
+          "key prop",
+          "fiber",
+          "render cycle",
+          "element identity"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?",
+        "category": "React Server Components",
+        "focus_area": "Architecture",
+        "difficulty_level": "Hard",
+        "adaptation": {
+          "evaluation": "Needs Development",
+          "reasoning": "Intermediate question was challenging. Reverting to basic level for foundational review."
+        },
+        "ideal_keywords": [
+          "server components",
+          "client components",
+          "zero bundle size",
+          "server-side execution",
+          "hydration",
+          "ssr"
+        ]
+      }
+    ],
+    "answers": [
+      "I don't know",
+      "dove means document object model nahi pata"
+    ],
+    "evaluation": {
+      "overallScore": 33,
+      "categoryScores": {
+        "technical": 33,
+        "communication": 38,
+        "completeness": 33
+      },
+      "summary": "MockMate strictly evaluated your responses for the Frontend Developer profile. You answered 3 questions.",
+      "strengths": [
+        "Demonstrated familiarity with concepts in the Frontend Developer domain.",
+        "Completed the active technical session questions."
+      ],
+      "weakAreas": [
+        "Explanations lacked critical technical details and did not cover all keywords.",
+        "Failed to explain design patterns or core mechanics for: React, JavaScript, HTML/CSS"
+      ],
+      "technicalAccuracy": "Technical precision calculated at 33%. Some responses lacked complete accuracy.",
+      "communicationClarity": "Communication is basic. Needs clearer structure and professional articulation of trade-offs.",
+      "domainUnderstanding": "Domain comprehension assessed at 33%. Demonstrates foundational knowledge of Frontend Developer concepts but lacks the technical depth expected at Beginner level.",
+      "finalVerdict": "Beginner",
+      "improvements": [
+        "Study foundational inner mechanics for React, JavaScript, HTML/CSS",
+        "Incorporate precise technical keywords in answers rather than generic definitions.",
+        "Exhaustively detail trade-offs and edge cases for architectural questions."
+      ],
+      "detailedFeedback": [
+        {
+          "question_id": 1,
+          "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+          "score": 5,
+          "feedback": "### Technical Assessment Notes\n\n**Overall Strength:** Moderate understanding. The candidate has the right intuition but misses critical depth and core specifications.\n- **Identified Gaps:** Failed to mention or detail key concepts: `cleanup function`, `useEffect`, `memory leaks`, `event listeners`, `subscriptions`, `unmount`.\n- **Actionable Advice:** Restructure the response to explain *why* and *how* the mechanism operates, incorporating precise technical terminology.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **React Lifecycle** (Focus Area: *useEffect Cleanup*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `cleanup function`, `useEffect`, `memory leaks`, `event listeners`, `subscriptions`, `unmount`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        },
+        {
+          "question_id": 2,
+          "question": "How does React's virtual DOM reconciliation work, and what is the significance of the 'key' prop when rendering lists of elements?",
+          "score": 5,
+          "feedback": "### Technical Assessment Notes\n\n**Overall Strength:** Moderate understanding. The candidate has the right intuition but misses critical depth and core specifications.\n- **Identified Gaps:** Failed to mention or detail key concepts: `reconciliation`, `diffing algorithm`, `key prop`, `fiber`, `render cycle`, `element identity`.\n- **Actionable Advice:** Restructure the response to explain *why* and *how* the mechanism operates, incorporating precise technical terminology.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **Virtual DOM** (Focus Area: *Core Engine*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `reconciliation`, `diffing algorithm`, `key prop`, `fiber`, `render cycle`, `element identity`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        },
+        {
+          "question_id": 3,
+          "question": "What are React Server Components (RSC) and how do they differ from standard Client Components in terms of execution environment and data fetching?",
+          "score": 0,
+          "feedback": "### Critical Gaps: No Response Recorded\nThe candidate did not provide any substantive answer to this question. \nTo prepare for this **React Server Components** topic:\n- Study the foundational mechanics of **Architecture**.\n- Learn to articulate definitions and use cases for: `server components`, `client components`, `zero bundle size`, `server-side execution`, `hydration`, `ssr`.\n- Practice drafting brief code structures or diagrams to build confidence.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **React Server Components** (Focus Area: *Architecture*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `server components`, `client components`, `zero bundle size`, `server-side execution`, `hydration`, `ssr`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        }
+      ]
+    },
+    "userEmail": "google@mockmate.com"
+  },
+  {
+    "id": "1780429006247",
+    "jobRole": "Frontend Developer",
+    "experienceLevel": "Beginner",
+    "techStack": "React, JavaScript, HTML/CSS",
+    "status": "completed",
+    "createdAt": "2026-06-02T19:36:46.247Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+        "category": "React Lifecycle",
+        "focus_area": "useEffect Cleanup",
+        "difficulty_level": "Easy",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "First few questions are kept at basic/foundational level to evaluate core concepts."
+        },
+        "ideal_keywords": [
+          "cleanup function",
+          "useEffect",
+          "memory leaks",
+          "event listeners",
+          "subscriptions",
+          "unmount"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "What is state batching in React 18+ and how does it affect rendering behavior when state is updated inside asynchronous operations like promises or timeouts?",
+        "category": "State Management",
+        "focus_area": "State Batching",
+        "difficulty_level": "Hard",
+        "adaptation": {
+          "evaluation": "Initial",
+          "reasoning": "First few questions are kept at basic/foundational level to evaluate core concepts."
+        },
+        "ideal_keywords": [
+          "batching",
+          "automatic batching",
+          "flushSync",
+          "rendering cycles",
+          "async updates"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Explain the difference between useMemo and useCallback hooks in React. When and why would you use each?",
+        "category": "React hooks",
+        "focus_area": "Performance Optimization",
+        "difficulty_level": "Medium",
+        "adaptation": {
+          "evaluation": "Needs Development",
+          "reasoning": "Advanced question was difficult. Stepping down to intermediate level."
+        },
+        "ideal_keywords": [
+          "useMemo",
+          "useCallback",
+          "memoization",
+          "referential equality",
+          "re-rendering",
+          "compute cost"
+        ]
+      }
+    ],
+    "answers": [
+      "I don't know",
+      "I don't know"
+    ],
+    "evaluation": {
+      "overallScore": 33,
+      "categoryScores": {
+        "technical": 33,
+        "communication": 38,
+        "completeness": 33
+      },
+      "summary": "MockMate strictly evaluated your responses for the Frontend Developer profile. You answered 3 questions.",
+      "strengths": [
+        "Demonstrated familiarity with concepts in the Frontend Developer domain.",
+        "Completed the active technical session questions."
+      ],
+      "weakAreas": [
+        "Explanations lacked critical technical details and did not cover all keywords.",
+        "Failed to explain design patterns or core mechanics for: React, JavaScript, HTML/CSS"
+      ],
+      "technicalAccuracy": "Technical precision calculated at 33%. Some responses lacked complete accuracy.",
+      "communicationClarity": "Communication is basic. Needs clearer structure and professional articulation of trade-offs.",
+      "domainUnderstanding": "Domain comprehension assessed at 33%. Demonstrates foundational knowledge of Frontend Developer concepts but lacks the technical depth expected at Beginner level.",
+      "finalVerdict": "Beginner",
+      "improvements": [
+        "Study foundational inner mechanics for React, JavaScript, HTML/CSS",
+        "Incorporate precise technical keywords in answers rather than generic definitions.",
+        "Exhaustively detail trade-offs and edge cases for architectural questions."
+      ],
+      "detailedFeedback": [
+        {
+          "question_id": 1,
+          "question": "Explain the cleanup function in functional React components. When is it executed, and what are typical use cases for it inside a useEffect hook?",
+          "score": 5,
+          "feedback": "### Technical Assessment Notes\n\n**Overall Strength:** Moderate understanding. The candidate has the right intuition but misses critical depth and core specifications.\n- **Identified Gaps:** Failed to mention or detail key concepts: `cleanup function`, `useEffect`, `memory leaks`, `event listeners`, `subscriptions`, `unmount`.\n- **Actionable Advice:** Restructure the response to explain *why* and *how* the mechanism operates, incorporating precise technical terminology.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **React Lifecycle** (Focus Area: *useEffect Cleanup*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `cleanup function`, `useEffect`, `memory leaks`, `event listeners`, `subscriptions`, `unmount`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        },
+        {
+          "question_id": 2,
+          "question": "What is state batching in React 18+ and how does it affect rendering behavior when state is updated inside asynchronous operations like promises or timeouts?",
+          "score": 5,
+          "feedback": "### Technical Assessment Notes\n\n**Overall Strength:** Moderate understanding. The candidate has the right intuition but misses critical depth and core specifications.\n- **Identified Gaps:** Failed to mention or detail key concepts: `batching`, `automatic batching`, `flushSync`, `rendering cycles`, `async updates`.\n- **Actionable Advice:** Restructure the response to explain *why* and *how* the mechanism operates, incorporating precise technical terminology.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **State Management** (Focus Area: *State Batching*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `batching`, `automatic batching`, `flushSync`, `rendering cycles`, `async updates`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        },
+        {
+          "question_id": 3,
+          "question": "Explain the difference between useMemo and useCallback hooks in React. When and why would you use each?",
+          "score": 0,
+          "feedback": "### Critical Gaps: No Response Recorded\nThe candidate did not provide any substantive answer to this question. \nTo prepare for this **React hooks** topic:\n- Study the foundational mechanics of **Performance Optimization**.\n- Learn to articulate definitions and use cases for: `useMemo`, `useCallback`, `memoization`, `referential equality`, `re-rendering`, `compute cost`.\n- Practice drafting brief code structures or diagrams to build confidence.",
+          "model_answer": "### Recommended Technical Approach\n\nTo answer this question effectively as a senior engineer, cover the following foundational sections:\n\n1. **Core Concept & Mechanism**\n   Clearly define the underlying concepts. Focus on the inner mechanics of **React hooks** (Focus Area: *Performance Optimization*).\n   \n2. **Key Architectural Components**\n   Explain how it executes and interacts with surrounding systems. Be sure to reference: `useMemo`, `useCallback`, `memoization`, `referential equality`, `re-rendering`, `compute cost`.\n   \n3. **Trade-offs & Implementation Decisions**\n   Analyze performance implications, memory usage, CPU execution overhead, and structural complexity. Compare alternate models to demonstrate technical depth.\n   \n4. **Typical Production Pitfalls**\n   Highlight common mistakes, debug patterns, resource leakage concerns, or concurrency bottlenecks and how to prevent them."
+        }
+      ]
+    },
+    "userEmail": "google@mockmate.com"
+  }
+]
